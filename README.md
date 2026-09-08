@@ -1,16 +1,29 @@
-# React + Vite
+# ⚡ Marvel Character Vault
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personal Marvel character collection app built with React + Vite.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+[https://malikahian.github.io/marvel-vault/](https://malikahian.github.io/marvel-vault/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Screenshot
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📖 About
+Marvel Character Vault is a React application that allows users to browse, filter, and manage their favourite Marvel characters. Inspired by a game collection app, but themed around the Marvel Cinematic Universe.
 
-## Expanding the ESLint configuration
+## ✨ Features
+- 📋 Display Marvel characters in a card grid layout
+- 🔍 Search characters by name or real name
+- 🎯 Filter characters by category (Male, Female, Animal) or team
+- ➕ Add new characters to the vault
+- ⭐ Star rating system for each character
+- 📊 Live character count display
+- 🎨 Dark Marvel themed UI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Built With
+- [React](https://react.dev/) — UI library
+- [Vite](https://vite.dev/) — Build tool
+- [React Bootstrap](https://react-bootstrap.github.io/) — UI components
+- [Bootstrap](https://getbootstrap.com/) — CSS framework
+
+## 📁 Project Structure
