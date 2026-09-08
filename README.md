@@ -6,6 +6,7 @@ A personal Marvel character collection app built with React + Vite.
 [https://malikahian.github.io/marvel-vault/](https://malikahian.github.io/marvel-vault/)
 
 ## Screenshot
+[Screenshot 2026-09-07 084738.png]
 
 
 ## 📖 About
